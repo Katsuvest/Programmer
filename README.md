@@ -1,13 +1,21 @@
 # Programmer
- Qualifications as a Programmer
+In my journey as a Programmer specializing in [Python](https://github.com/Katsuvest/Python) and [R_Programming](https://github.com/Katsuvest/R_Programming), I've acquired a diverse skill set through targeted courses and hands-on projects. Here's a concise overview:
 
-## Statements of Accomplishment
+**[Python Programmer](https://github.com/Katsuvest/Programmer/tree/master/Python_Programmer.pdf):** (Completed on 12-07-2023)
 
-|                                          Career Tracks                                          | Completed  |
-| :---------------------------------------------------------------------------------------------- | :--------: |
-| [Python Programmer](https://github.com/Katsuvest/Programmer/tree/master/Python_Programmer.pdf)  | 12-07-2023 |
-| [R Programmer(new)](https://github.com/Katsuvest/Programmer/tree/master/R_Programmer_(new).pdf) | 07-04-2023 |
-| [R Programmer](https://github.com/Katsuvest/Programmer/tree/master/R_Programmer.pdf)            | 16-02-2023 |
+* Proficient in data manipulation with pandas.
+* Mastered Python data structures and algorithms.
+* Real-world project experience in exploring `NYC public school test scores`.
+* Proficient in Git version control and software engineering principles.
+
+[R Programmer](https://github.com/Katsuvest/Programmer/tree/master/R_Programmer.pdf) : (Completed on 16-02-2023; revised 07-04-2023 
+
+* Expert in data manipulation using dplyr.
+* Robust and defensive R programming.
+* Building and optimizing R packages.
+* Real-world project experiences, including `Drunken Datetimes in Ames, Iowa`.
+ 
+These experiences have equipped me with a versatile skill set, making me adept at tackling complex programming challenges in both [Python](https://github.com/Katsuvest/Python) and [R_Programming](https://github.com/Katsuvest/R_Programming). I am well-prepared to contribute effectively to diverse projects and initiatives.
 
 ## Course
 
