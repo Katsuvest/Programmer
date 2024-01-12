@@ -1,4 +1,4 @@
-# Programmer
+# Qualifications as a Programmer
 In my journey as a Programmer specializing in [Python](https://github.com/Katsuvest/Python) and [R_Programming](https://github.com/Katsuvest/R_Programming), I've acquired a diverse skill set through targeted courses and hands-on projects. Here's a concise overview:
 
 **[Python Programmer](https://github.com/Katsuvest/Programmer/tree/master/Python_Programmer.pdf):** (Completed on 12-07-2023)
